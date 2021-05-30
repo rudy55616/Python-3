@@ -1,0 +1,11 @@
+git init {To be tun where the folder needs to be initiated}
+git status {informs if there needs a file to be committed}
+git config user.name []
+git config user.email []
+git config --list {provides more info than status}
+git add [file name]
+git add . {adds evertything}
+git commit -m [type of commit]
+git remote add origin [SSH Url]
+git push - u origin [master/branch]
+git pull origin [master/branch]
